@@ -36,6 +36,16 @@ This is a *Contact Manager App* built with Flutter. The app allows users to mana
 https://github.com/user-attachments/assets/d71c0012-4c78-4c4b-babc-a905c37acc03
 
 
+# Video offline 
+
+<div align="center">
+ 
+  <video height="450" src="https://github.com/user-attachments/assets/70e7e7d4-24ab-4d67-aa1d-20f6e719a8b5
+" />
+</div>
+
+
+
 
 
 
